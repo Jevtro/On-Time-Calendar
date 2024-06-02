@@ -1,6 +1,6 @@
-# myapp
+# On-Time Calendar
 
-A new Flutter project.
+School flutter project.
 
 ## Getting Started
 
